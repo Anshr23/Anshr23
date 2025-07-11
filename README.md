@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ansh Rai</h1>
-<h3 align="center">Full Stack Developer (MERN) | AI & ML Enthusiast | Open Source Explorer</h3>
+<h1 align="center">Hi, I'm Ansh Rai</h1>
+<h3 align="center">Full Stack Developer (MERN)</h3>
 
 <!--
 <p align="center">
@@ -11,9 +11,7 @@
 
 ### 🚀 About Me
 - 📚 B.Tech CSE @ MAIT | Data Science @ IIT Madras
-- 🔧 Currently building: **AutoClassify**, **SmartFAQ Bot**, and a full-stack **Spotify Clone**
 - 🌟 Passionate about solving real-world problems using AI and full-stack web development
-- 🙌 Looking to collaborate on innovative projects & open-source contributions
 - ✉️ Reach me at: **raiansh2304@gmail.com**
 
 ---
@@ -37,14 +35,14 @@
 </p>
 
 ---
-
+<!--
 ### 🔗 Projects
 - 🧠 **AutoClassify** – NLP pipeline using HuggingFace for unsupervised complaint classification
 - 🤖 **SmartFAQ Bot** – Rule-based Python chatbot with dynamic API routing (math, BMI, spell-check)
 - 🎵 **Spotify Clone** – Full-stack app with music streaming, real-time chat, and JWT-based authentication
 - 📸 **Landmark Detection** – VGG-19 with TensorFlow for image classification using transfer learning
 
----
+--->
 
 ### 📊 GitHub Stats
 <p>
