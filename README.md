@@ -35,6 +35,10 @@
 </p>
 
 ---
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Anshr23)
+
+
 <!--
 ### 🔗 Projects
 - 🧠 **AutoClassify** – NLP pipeline using HuggingFace for unsupervised complaint classification
@@ -42,10 +46,12 @@
 - 🎵 **Spotify Clone** – Full-stack app with music streaming, real-time chat, and JWT-based authentication
 - 📸 **Landmark Detection** – VGG-19 with TensorFlow for image classification using transfer learning
 
---->
+
 
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Anshr23&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshr23&layout=compact&theme=tokyonight"/>
 </p>
+
+--->
