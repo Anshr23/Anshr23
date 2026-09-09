@@ -5,15 +5,9 @@
 ### Full-Stack Engineer · Applied AI/ML Research
 
 Formally verifying protocols by day, shipping full-stack products by night.
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anshr23.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshr23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anshr23.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshr23/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiansh230405@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Ansh_r23)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiansh230405@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Ansh_r23)
--->
 </div>
 
 <br/>
@@ -59,11 +53,6 @@ Formally verifying protocols by day, shipping full-stack products by night.
 
 ## // GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshr23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshr23&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=3fb950&text_color=c9d1d9" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshr23&theme=github-dark-blue&hide_border=true&background=0D0D0D&stroke=3fb950&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
@@ -74,6 +63,7 @@ Formally verifying protocols by day, shipping full-stack products by night.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Anshr23&color=3fb950&style=flat-square&label=Profile+Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anshr23&color=grey&style=flat-square&label=Profile+Views)
 
 </div>
