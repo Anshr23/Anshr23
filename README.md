@@ -143,13 +143,9 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
-<div align="center">
+<div>
 
-```
-$ profile --views
-```
-
-![Profile views](https://komarev.com/ghpvc/?username=Anshr23&color=0D0D0D&style=flat-square&label=)
+![Profile Views](https://komarev.com/ghpvc/?username=Anshr23&color=grey&style=flat-square&label=Profile+Views)
 
 </div>
 
