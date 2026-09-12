@@ -6,16 +6,6 @@
 
 <br/>
 
-<div align="center">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Systems%20%7C%20AI&fontSize=35&fontAlign=50&fontColor=ffffff" alt="Header banner" />
-</p>
-
-</div>
-
-<br/>
-
 ```bash
 ansh@dev:~$ whoami
 > Ansh Rai — Full-Stack Engineer, Applied AI/ML Research
@@ -38,19 +28,6 @@ ansh@dev:~$ contact
 
 <br/>
 
-### `// ABOUT`
-
-I build products, systems, and research workflows across the full-stack and applied AI stack.
-My focus is on turning ideas into useful software: backend APIs, full-stack apps,
-search systems, agent pipelines, ML tooling, and systems that can be observed and scaled.
-
-- 🧠 Research: formal methods, NLP, CV, applied AI
-- 🛠️ Engineering: MERN, PostgreSQL, Redis, queues, APIs, deployment
-- ⚙️ Systems thinking: rate limiting, caching, indexing, scaling, observability
-- 📚 Practice: algorithms, data structures, system design, architecture
-
-<br/>
-
 ### `// TECH STACK`
 
 **Languages**
@@ -70,39 +47,22 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
-### `// SYSTEMS I EXPLORE`
-
-- Handoff file
-- Vanilla Python
-- Lex graph
-- RAG graph
-- Multi-hop query
-- Agent query forge
-- TPCH sample dataset
-- Multi-indexing
-- Low-latency retrieval
-- LangGraph
-- LangSmith and observability via Langfuse
-- Rate limiting and API design
-- PostgreSQL deep work
-- Redis and caching
-- Queues and background jobs
-- Webhooks
-- Pagination and transactions
-- Database indexing
-- Connection pooling
-- File and object storage
-- Search systems
-- Feature and ML pipeline design
-
-<br/>
-
 ### `// FEATURED PROJECTS`
 
-**Full-Stack**
-- 🎵 **[Spotify-Inspired Music Platform](https://github.com/Anshr23/spotify_clone)** — MERN, WebSockets, JWT auth, real-time chat, admin dashboard · [Live](https://spotify-clone-9xd3.onrender.com/)
-- 🤖 **[J.A.C.K. — AI Chatbot](https://github.com/Anshr23/J.A.C.K._AI-chatbot)** — OpenAI API, context-aware conversations, JWT auth, persistent history in MongoDB
-- 📇 **[Contact Manager API](https://github.com/Anshr23/Contact_manager)** — Express + MongoDB REST API for secure contact CRUD operations
+```
+01  Spotify-Inspired Music Platform
+    MERN · WebSockets · JWT · real-time chat · admin dashboard
+    → github.com/Anshr23/spotify_clone
+    → live: spotify-clone-9xd3.onrender.com
+
+02  J.A.C.K. — AI Chatbot
+    OpenAI API · context-aware conversations · JWT · MongoDB
+    → github.com/Anshr23/J.A.C.K._AI-chatbot
+
+03  Contact Manager API
+    Express · MongoDB · REST · secure CRUD operations
+    → github.com/Anshr23/Contact_manager
+```
 
 <br/>
 
@@ -111,12 +71,6 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 <div align="center">
 <img src="https://raw.githubusercontent.com/Anshr23/Anshr23/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
-
-<br/>
-
-### `// ACTIVITY`
-
-[![Anshr23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshr23&theme=github-compact)](https://github.com/Anshr23/github-readme-activity-graph)
 
 <br/>
 
@@ -131,18 +85,6 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
-### `// STREAK`
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anshr23&theme=github-green-purple&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00EB4C&currStreakNum=00EB4C&dates=00EB4C)](https://git.io/streak-stats)
-
-<br/>
-
-### `// QUOTE`
-
-> “Build systems that teach you how to see the tradeoffs.”
-
-<br/>
-
 <div align="center">
 
 ```
@@ -152,5 +94,3 @@ $ profile --views
 ![Profile views](https://komarev.com/ghpvc/?username=Anshr23&color=0D0D0D&style=flat-square&label=)
 
 </div>
-
-
