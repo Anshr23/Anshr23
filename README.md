@@ -104,7 +104,8 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 ### `// WAKA TIME`
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anshr23&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=3FB950&text_color=8B949E" alt="WakaTime language stats" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->"WakaTime language stats" />
 
 <br/>
 
