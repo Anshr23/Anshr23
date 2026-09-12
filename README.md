@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Ansh+Rai;Full-Stack+Engineer;Applied+AI%2FML+Research;Formal+Methods+%2F+DRDO;Building+in+public.&font=JetBrains+Mono&size=22&pause=1600&color=3FB950&center=true&vCenter=true&width=560&height=50&separator=;" alt="typing-animation" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Systems%20%7C%20AI&fontSize=35&fontAlign=50&fontColor=ffffff" alt="Header banner" />
 </p>
 
 </div>
+
+<br/>
+
+### `// QUOTE OF THE DAY`
+
+> "Build systems that teach you how to see the tradeoffs."
+
+> — Ansh Rai
 
 <br/>
 
@@ -53,55 +53,19 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 ### `// TECH STACK`
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3FB950) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3FB950) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=3FB950) ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=3FB950)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=3FB950) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=3FB950) ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=3FB950)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=3FB950) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=3FB950) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=3FB950) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=3FB950)
-
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=3FB950) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=3FB950) ![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=3FB950) ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=3FB950)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=3FB950) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=3FB950) ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=3FB950)
-
-<br/>
-
-### `// SYSTEMS I EXPLORE`
-
-- Handoff file
-- Vanilla Python
-- Lex graph
-- RAG graph
-- Multi-hop query
-- Agent query forge
-- TPCH sample dataset
-- Multi-indexing
-- Low-latency retrieval
-- LangGraph
-- LangSmith and observability via Langfuse
-- Rate limiting and API design
-- PostgreSQL deep work
-- Redis and caching
-- Queues and background jobs
-- Webhooks
-- Pagination and transactions
-- Database indexing
-- Connection pooling
-- File and object storage
-- Search systems
-- Feature and ML pipeline design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker" alt="Tech stack icons" />
+</div>
 
 <br/>
 
 ### `// FEATURED PROJECTS`
 
+> Systems, APIs, ML workflows, and full-stack products I've been building and shipping.
+
 **Full-Stack**
-- 🎵 **[Spotify-Inspired Music Platform](https://github.com/Anshr23/spotify_clone)** — MERN, WebSockets, JWT auth, real-time chat, admin dashboard · [Live](https://spotify-clone-9xd3.onrender.com/)
-- 🤖 **[J.A.C.K. — AI Chatbot](https://github.com/Anshr23/J.A.C.K._AI-chatbot)** — OpenAI API, context-aware conversations, JWT auth, persistent history in MongoDB
+- 🎵 **[Spotify-Inspired Music Platform](https://github.com/Anshr23/spotify_clone)** — MERN · WebSockets · JWT auth · real-time chat · admin dashboard · [Live](https://spotify-clone-9xd3.onrender.com/)
+- 🤖 **[J.A.C.K. — AI Chatbot](https://github.com/Anshr23/J.A.C.K._AI-chatbot)** — OpenAI API · context-aware conversations · JWT · persistent MongoDB history
 - 📇 **[Contact Manager API](https://github.com/Anshr23/Contact_manager)** — Express + MongoDB REST API for secure contact CRUD operations
 
 <br/>
@@ -116,11 +80,18 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 ### `// ACTIVITY`
 
+<!--
+  NOTE: The public instance of github-readme-activity-graph is rate-limited
+  and falls back to a random cached demo user's graph when it runs out of
+  quota — that's why a different person's graph was showing. Self-hosting
+  your own free instance on Vercel with your own GitHub token fixes this
+  permanently. Ask if you want a walkthrough.
+-->
 [![Anshr23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshr23&theme=github-compact)](https://github.com/Anshr23/github-readme-activity-graph)
 
 <br/>
 
-### `// METRICS`
+### `// GITHUB STATS`
 
 <div align="center">
 
@@ -131,21 +102,29 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
+### `// WAKA TIME`
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anshr23&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=3FB950&text_color=8B949E" alt="WakaTime language stats" />
+
+<br/>
+
 ### `// STREAK`
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anshr23&theme=github-green-purple&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00EB4C&currStreakNum=00EB4C&dates=00EB4C)](https://git.io/streak-stats)
 
 <br/>
 
-### `// QUOTE`
-
-> “Build systems that teach you how to see the tradeoffs.”
-
-<br/>
-
 <div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anshr23&color=grey&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/sky-clear.svg" width="820" alt="Living Scene" />
 
 </div>
 

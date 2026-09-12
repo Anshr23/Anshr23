@@ -1,0 +1,78 @@
+name: Daily Quote Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a quote from Public API
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          # NOTE: api.quotable.io has been unreliable/down for a long time,
+          # which is why the README quote was getting "stuck" on the fallback.
+          # dummyjson.com is a stable, no-auth alternative.
+          url = 'https://dummyjson.com/quotes/random'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+
+          try:
+              with urllib.request.urlopen(req, timeout=20) as response:
+                  data = json.loads(response.read().decode('utf-8'))
+              quote = data.get('quote', 'Build systems that teach you how to see the tradeoffs.')
+              author = data.get('author', 'Ansh Rai')
+          except Exception:
+              quote = 'Build systems that teach you how to see the tradeoffs.'
+              author = 'Ansh Rai'
+
+          readme_path = Path('README.md')
+          text = readme_path.read_text() if readme_path.exists() else ''
+
+          quote_block = (
+              "### `// QUOTE OF THE DAY`\n\n"
+              "> \"" + quote + "\"\n\n"
+              "> — " + author + "\n\n"
+              "<br/>\n"
+          )
+
+          # Match the whole block from the header up to (but not including)
+          # the next "<br/>" that ends it, regardless of what text is
+          # currently inside it. This works on every run, not just the first.
+          pattern = re.compile(
+              r"### `// QUOTE OF THE DAY`\n\n.*?<br/>\n",
+              flags=re.S,
+          )
+
+          if pattern.search(text):
+              text = pattern.sub(quote_block, text, count=1)
+          elif "<br/>\n\n```bash" in text:
+              text = text.replace("<br/>\n\n```bash", quote_block + "\n<br/>\n\n```bash", 1)
+          else:
+              text = quote_block + text
+
+          readme_path.write_text(text)
+          PY
+
+      - name: Commit and push README quote update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README quote update needed."
+          else
+            git commit -m "Update daily quote"
+            git push
+          fi
