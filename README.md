@@ -6,12 +6,7 @@
 
 </div>
 
-<br/>
-
-### `// QUOTE OF THE DAY`
-
 > "Things Won Are Done, Joy'S Soul Lies In The Doing."
-
 > — William Shakespeare
 
 <br/>
@@ -97,8 +92,9 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yuki4266/living-scene/main/previews/sky-clear.svg" width="820" alt="Living Scene" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
+  <img src="sky.svg" width="820" alt="Living Scene" />
+</picture>
 
 </div>
-
-
