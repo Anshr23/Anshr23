@@ -40,18 +40,21 @@ jobs:
           readme_path = Path('README.md')
           text = readme_path.read_text() if readme_path.exists() else ''
 
+          # Match the already-used README quote block format exactly:
+          #   > "quote"
+          #   > ~ author
+          #
+          # No heading is used in the README anymore.
           quote_block = (
-              "### `// QUOTE OF THE DAY`\n\n"
-              "> \"" + quote + "\"\n\n"
-              "> — " + author + "\n\n"
+              "> \"" + quote + "\"\n"
+              "> ~ " + author + "\n\n"
               "<br/>\n"
           )
 
-          # Match the whole block from the header up to (but not including)
-          # the next "<br/>" that ends it, regardless of what text is
-          # currently inside it. This works on every run, not just the first.
+          # Replace any older quote block that used the old format,
+          # as well as the current quote style, without depending on a header.
           pattern = re.compile(
-              r"### `// QUOTE OF THE DAY`\n\n.*?<br/>\n",
+              r"> \".*?\"\n> ~ .*?\n\n<br/>\n",
               flags=re.S,
           )
 

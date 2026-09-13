@@ -7,7 +7,7 @@
 </div>
 
 > "Things Won Are Done, Joy'S Soul Lies In The Doing."
-> — William Shakespeare
+> ~ William Shakespeare
 
 <br/>
 
