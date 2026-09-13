@@ -10,9 +10,9 @@
 
 ### `// QUOTE OF THE DAY`
 
-> "Build systems that teach you how to see the tradeoffs."
+> "Things Won Are Done, Joy'S Soul Lies In The Doing."
 
-> — Ansh Rai
+> — William Shakespeare
 
 <br/>
 
