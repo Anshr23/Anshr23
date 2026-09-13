@@ -70,42 +70,14 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
-### `// CONTRIBUTION GRAPH`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Anshr23/Anshr23/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
-<br/>
-
-### `// ACTIVITY`
-
-<!--
-  NOTE: The public instance of github-readme-activity-graph is rate-limited
-  and falls back to a random cached demo user's graph when it runs out of
-  quota — that's why a different person's graph was showing. Self-hosting
-  your own free instance on Vercel with your own GitHub token fixes this
-  permanently. Ask if you want a walkthrough.
--->
-[![Anshr23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anshr23&theme=github-compact)](https://github.com/Anshr23/github-readme-activity-graph)
-
-<br/>
-
 ### `// GITHUB STATS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshr23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=3FB950&icon_color=3FB950&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshr23&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D&title_color=3FB950&text_color=8B949E" />
+<img src="https://raw.githubusercontent.com/Anshr23/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview" />
+<img src="https://raw.githubusercontent.com/Anshr23/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
 
 </div>
-
-<br/>
-
-### `// WAKA TIME`
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->"WakaTime language stats" />
 
 <br/>
 
