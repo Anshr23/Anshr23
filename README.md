@@ -68,17 +68,22 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 ### `// GITHUB STATS`
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Anshr23&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" width="48%" alt="GitHub stats overview" />
+  <img src="https://streak-stats.demolab.com?user=Anshr23&theme=onedark&hide_border=true" width="48%" alt="GitHub streak" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Anshr23/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats overview" />
-<img src="https://raw.githubusercontent.com/Anshr23/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+<br/>
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anshr23&layout=compact&theme=onedark&hide_border=true&langs_count=8" width="48%" alt="Languages used" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anshr23&layout=donut&theme=onedark&hide_border=true&langs_count=8&custom_title=Top%20Languages" width="48%" alt="Top languages distribution" />
 </div>
 
 <br/>
 
 ### `// STREAK`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anshr23&theme=github-green-purple&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00EB4C&currStreakNum=00EB4C&dates=00EB4C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anshr23&theme=microsoft-dark)](https://git.io/streak-stats)
 
 <br/>
 
