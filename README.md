@@ -85,5 +85,9 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
   <source media="(prefers-color-scheme: dark)" srcset="sky-night.svg" />
   <img src="sky.svg" width="820" alt="Living Scene" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="garden-footer-night.svg" />
+  <img src="garden-footer.svg" width="820" alt="Garden footer" />
+</picture>
 
 </div>
