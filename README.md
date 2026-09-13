@@ -71,6 +71,20 @@ search systems, agent pipelines, ML tooling, and systems that can be observed an
 
 <br/>
 
+### `// CONTRIBUTION GRAPH`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshr23/Anshr23/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshr23/Anshr23/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Anshr23/Anshr23/output/galaga-contribution-graph.svg">
+</picture>
+
+</div>
+
+<br/>
+
 <div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anshr23&color=grey&style=flat-square&label=Profile+Views)
