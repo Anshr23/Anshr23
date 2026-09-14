@@ -22,10 +22,10 @@ ansh@dev:~$ background --experience
 > Mobineers Info Systems · Project Intern (NLP & Applied AI Pipelines)
 
 ansh@dev:~$ stats --competitive
-> LeetCode 1680+  ·  Codeforces Pupil  ·  CodeChef 2★  ·  Merged Open-Source Contributor (cal.com)
+> LeetCode 1680+  ·  Codeforces Pupil  ·  CodeChef 2★  ·  Open-Source Contributor
 
 ansh@dev:~$ contact
-> raiansh230405@gmail.com  ·  https://linkedin.com/in/anshr23  ·  https://github.com/Anshr23
+> raiansh230405@gmail.com  ·  https://linkedin.com/in/anshr23
 ```
 
 <div align="center"> 
