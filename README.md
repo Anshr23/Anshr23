@@ -1,9 +1,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=checkered&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Full-Stack%20%7C%20Applied%20AI&fontSize=33&fontAlign=50&fontColor=000000" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=checkered&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Full-Stack%20%7C%20Applied%20AI&fontSize=33&fontAlign=50&fontColor=000000" alt="Ansh Rai — Full-Stack and Applied AI" />
 </p>
-
 </div>
 
 > "Things Won Are Done, Joy'S Soul Lies In The Doing."
@@ -29,16 +28,23 @@ ansh@dev:~$ contact
 > raiansh230405@gmail.com  ·  https://linkedin.com/in/anshr23  ·  https://github.com/Anshr23
 ```
 
-<br/>
+<div align="center"> 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anshr23.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshr23/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiansh230405@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Ansh_r23)
+</div>
+
 
 ### `// ABOUT`
 
-I build production-grade web applications, distributed real-time systems, and resilient agentic workflows. My primary focus centers on full-stack web architectures, clean backend API design, and high-performance frontend interfaces. Secondarily, I engineer applied AI workflows—designing multi-provider fallback architectures, retrieval systems, and verified agent execution graphs.
+I build full-stack products and practical AI systems, with a primary focus on
+MERN, Next.js, TypeScript, backend engineering, and software development.
+I'm also exploring Applied AI through RAG pipelines, LangGraph agents, and
+practical LLM integrations.
 
-- 🛠️ **Full-Stack & Systems:** React, Next.js 16, Node.js, Express, PostgreSQL, MongoDB, Redis, WebSockets
-- 🤖 **Applied AI & Agents:** LangGraph, LangChain, RAG, Multi-LLM Routing & Fallbacks
-- ⚙️ **Engineering Reliability:** State machine verification, real-time caching, API contract sync, CI test gating
-- 📚 **CS Foundations:** Data Structures & Algorithms, Object-Oriented Design, DBMS, OS, Computer Networks
+- 🛠️ **Full-Stack:** MERN, React, Next.js, TypeScript, Node.js, Express, REST APIs
+- ⚙️ **Backend & Systems:** PostgreSQL, MongoDB, Redis, WebSockets, authentication, APIs
+- 🤖 **Applied AI:** RAG, LangGraph, LangChain, LLM integration, agentic workflows
+- 📚 **Engineering:** DSA, OOP, DBMS, Operating Systems, Computer Networks
+- 🔬 **Research:** Experience across formal verification, NLP, and applied AI
 
 <br/>
 
@@ -52,16 +58,19 @@ I build production-grade web applications, distributed real-time systems, and re
 
 ### `// FEATURED PROJECTS`
 
-> High-throughput systems, real-time web applications, and agentic workflows I've built and shipped.
+> Full-stack products, real-time systems, and practical AI applications I've been building and shipping.
 
-**Full-Stack & Systems**
-* 📈 **[KryptoVision](https://github.com/Anshr23/kryptovision)** — High-performance crypto terminal built with Next.js 16, React 19, TypeScript, and TradingView Lightweight Charts. Features dual-engine WebSockets (Binance & CoinGecko) delivering sub-100ms updates with 99.9% uptime failover, live USD/INR conversion, and debounced ⌘K search. · [Live](https://kryptovision.vercel.app)
-* 🎵 **[PulseRoom](https://github.com/Anshr23/PulseRoom)** — Full-stack social audio room built with the MERN stack and Socket.IO. Powers synchronized real-time chat, online presence tracking, live listening activity, and role-based access. · [Live](https://pulseroom-2.onrender.com)
-* 🌐 **[Cal.com (Open Source Contribution)](https://github.com/calcom/cal.diy/pull/30088)** — Upstream merged pull request synchronizing database and API contract drift across CalVideoSettings DTOs and the v2 OpenAPI specification using Prisma and TypeScript.
+**Full-Stack / SDE**
+* 📈 **[KryptoVision](https://github.com/Anshr23/kryptovision)** — High-performance crypto terminal built with Next.js, React, TypeScript, and TradingView Charts. Dual-engine WebSockets with Binance/CoinGecko provide sub-100ms updates and failover, with live USD/INR conversion and ⌘K search. · [Live](https://kryptovision.vercel.app)
+* 🎵 **[PulseRoom](https://github.com/Anshr23/PulseRoom)** — Full-stack social audio platform built with MERN and Socket.IO, featuring synchronized real-time chat, presence tracking, live listening activity, and role-based access. · [Live](https://pulseroom-2.onrender.com)
 
-**Applied AI & Agentic Systems**
-* 🧠 **[NexusAI](https://github.com/Anshr23/NexusAI)** — Multi-LLM conversational platform engineered with MERN and TypeScript. Features a resilient 3-provider fallback engine (Groq Llama 3.3, Google Gemini, OpenAI) guaranteeing 99.9% availability against rate limits alongside persistent MongoDB chat memory. · [Live](https://nexusai-r5ww.onrender.com)
-* 🛡️ **[Verified Agent Control Flow](https://github.com/Anshr23/Verified-Agent-Control-Flow)** — LangGraph autonomous agent with formally verified control flow. Utilizes NuSMV model checking to prove safety and liveness properties (preventing unconfirmed destructive actions and infinite loops), gated within an automated pytest/CI suite.
+**Applied AI**
+* 🧠 **[NexusAI](https://github.com/Anshr23/NexusAI)** — Multi-LLM conversational platform built with MERN and TypeScript, using a 3-provider fallback architecture across Groq, Gemini, and OpenAI for resilient availability with persistent MongoDB chat memory. · [Live](https://nexusai-r5ww.onrender.com)
+* 🛡️ **[Verified Agent Control Flow](https://github.com/Anshr23/Verified-Agent-Control-Flow)** — LangGraph agent with NuSMV-verified safety and liveness properties, preventing unsafe actions and infinite control-flow loops through automated pytest/CI validation.
+
+**Open Source**
+- 🔧 **[Cal.com Contribution](https://github.com/calcom/cal.diy/pull/30088)**
+— Upstream merged contribution resolving API/database contract drift across CalVideoSettings DTOs and the v2 OpenAPI specification using Prisma and TypeScript.
 
 <br/>
 
