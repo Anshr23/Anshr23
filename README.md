@@ -6,8 +6,8 @@
 
 </div>
 
-> "Things Won Are Done, Joy'S Soul Lies In The Doing."
-> ~ William Shakespeare
+> "Too Many Have Dispensed With Generosity In Order To Practice Charity."
+> ~ Albert Camus
 
 
 ```bash
