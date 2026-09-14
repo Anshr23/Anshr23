@@ -22,9 +22,6 @@ jobs:
           import urllib.request
           from pathlib import Path
 
-          # NOTE: api.quotable.io has been unreliable/down for a long time,
-          # which is why the README quote was getting "stuck" on the fallback.
-          # dummyjson.com is a stable, no-auth alternative.
           url = 'https://dummyjson.com/quotes/random'
           req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 
@@ -40,21 +37,13 @@ jobs:
           readme_path = Path('README.md')
           text = readme_path.read_text() if readme_path.exists() else ''
 
-          # Match the already-used README quote block format exactly:
-          #   > "quote"
-          #   > ~ author
-          #
-          # No heading is used in the README anymore.
           quote_block = (
               "> \"" + quote + "\"\n"
               "> ~ " + author + "\n\n"
-              "<br/>\n"
           )
 
-          # Replace any older quote block that used the old format,
-          # as well as the current quote style, without depending on a header.
           pattern = re.compile(
-              r"> \".*?\"\n> ~ .*?\n\n<br/>\n",
+              r"> \".*?\"\n> ~ .*?\n\n?",
               flags=re.S,
           )
 
