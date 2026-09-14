@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Systems%20%7C%20AI&fontSize=35&fontAlign=50&fontColor=ffffff" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=checkered&color=gradient&height=180&section=header&text=Ansh%20Rai%20%7C%20Systems%20%7C%20AI&fontSize=35&fontAlign=50&fontColor=ffffff" alt="Header banner" />
 </p>
 
 </div>
