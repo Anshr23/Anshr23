@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Too Many Have Dispensed With Generosity In Order To Practice Charity."
-> ~ Albert Camus
+> "We Enjoy The Process Far More Than The Proceeds."
+> ~ Warren Buffett
 
 
 ```bash
