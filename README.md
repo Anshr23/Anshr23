@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "We Enjoy The Process Far More Than The Proceeds."
-> ~ Warren Buffett
+> "I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong."
+> ~ Benjamin Franklin
 
 
 ```bash
