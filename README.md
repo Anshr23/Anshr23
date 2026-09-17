@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong."
-> ~ Benjamin Franklin
+> "Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come?"
+> ~ Rumi
 
 
 ```bash
