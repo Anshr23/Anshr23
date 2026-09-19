@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "I Wish To Preach, Not The Doctrine Of Ignoble Ease, But The Doctrine Of The Strenuous Life."
-> ~ Theodore Roosevelt
+> "Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game."
+> ~ Winston Churchill
 
 
 ```bash
