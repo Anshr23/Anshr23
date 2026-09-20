@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game."
-> ~ Winston Churchill
+> "Respond to every call that excites your spirit."
+> ~ Rumi
 
 
 ```bash
