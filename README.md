@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Respond to every call that excites your spirit."
-> ~ Rumi
+> "We are a people whom Allah gave might and glory to through Islam, so we will never seek glory through anything else."
+> ~ Umar ibn Al-Khattāb (R.A)
 
 
 ```bash
