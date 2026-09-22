@@ -5,7 +5,7 @@
 </p>
 </div>
 
-> "We are a people whom Allah gave might and glory to through Islam, so we will never seek glory through anything else."
+> "If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."
 > ~ Umar ibn Al-Khattāb (R.A)
 
 
