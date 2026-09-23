@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."
-> ~ Umar ibn Al-Khattāb (R.A)
+> "What keeps me going is goals."
+> ~ Muhammad Ali
 
 
 ```bash
