@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "What keeps me going is goals."
-> ~ Muhammad Ali
+> "Don't you know yet? It is your Light that lights the worlds."
+> ~ Rumi
 
 
 ```bash
