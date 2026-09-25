@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Don't you know yet? It is your Light that lights the worlds."
-> ~ Rumi
+> "The man with no imagination has no wings."
+> ~ Muhammad Ali
 
 
 ```bash
