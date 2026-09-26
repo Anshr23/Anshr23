@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The man with no imagination has no wings."
-> ~ Muhammad Ali
+> "Solitude Is Better Than The Society Of Evil Persons."
+> ~ Abu Bakr
 
 
 ```bash
