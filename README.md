@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Solitude Is Better Than The Society Of Evil Persons."
-> ~ Abu Bakr
+> "Virtue Has A Veil, Vice A Mask."
+> ~ Victor Hugo
 
 
 ```bash
