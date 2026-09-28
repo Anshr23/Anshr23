@@ -5,7 +5,7 @@
 </p>
 </div>
 
-> "Virtue Has A Veil, Vice A Mask."
+> "When A Man Is Out Of Sight, It Is Not Too Long Before He Is Out Of Mind."
 > ~ Victor Hugo
 
 
