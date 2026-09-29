@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "When A Man Is Out Of Sight, It Is Not Too Long Before He Is Out Of Mind."
-> ~ Victor Hugo
+> "If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is thus attracted, it is worse."
+> ~ Abu Bakr (R.A)
 
 
 ```bash
