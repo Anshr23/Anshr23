@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is thus attracted, it is worse."
-> ~ Abu Bakr (R.A)
+> "Words Are Only Painted Fire; A Look Is The Fire Itself."
+> ~ Mark Twain
 
 
 ```bash
