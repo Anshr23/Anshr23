@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work."
-> ~ Abdul Kalam
+> "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."
+> ~ Rumi
 
 
 ```bash
