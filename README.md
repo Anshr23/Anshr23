@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Those That Know, Do. Those That Understand, Teach."
-> ~ Aristotle
+> "I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."
+> ~ Mark Twain
 
 
 ```bash
