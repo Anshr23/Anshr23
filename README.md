@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."
-> ~ Mark Twain
+> "What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."
+> ~ Rumi
 
 
 ```bash
