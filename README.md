@@ -5,7 +5,7 @@
 </p>
 </div>
 
-> "What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."
+> "Your longing for ME is my message to you, All your attempts to reach ME, Are in reality MY attempts to reach you."
 > ~ Rumi
 
 
