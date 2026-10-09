@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Many a spoken word is more piercing than an attack."
-> ~ Ali ibn Abi Talib (R.A)
+> "Luxury Must Be Comfortable, Otherwise It Is Not Luxury."
+> ~ Coco Chanel
 
 
 ```bash
