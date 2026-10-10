@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Luxury Must Be Comfortable, Otherwise It Is Not Luxury."
-> ~ Coco Chanel
+> "Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."
+> ~ Bertrand Russell
 
 
 ```bash
