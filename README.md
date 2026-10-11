@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."
-> ~ Bertrand Russell
+> "Elegance Does Not Consist In Putting On A New Dress."
+> ~ Coco Chanel
 
 
 ```bash
