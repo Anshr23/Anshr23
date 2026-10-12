@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Elegance Does Not Consist In Putting On A New Dress."
-> ~ Coco Chanel
+> "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation."
+> ~ Rumi
 
 
 ```bash
