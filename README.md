@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation."
-> ~ Rumi
+> "The World We Have Created Is A Product Of Our Thinking."
+> ~ Albert Einstein
 
 
 ```bash
