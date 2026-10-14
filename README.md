@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The World We Have Created Is A Product Of Our Thinking."
-> ~ Albert Einstein
+> "As long as you are pure of heart, you speak the truth."
+> ~ Umar ibn Al-Khattāb (R.A)
 
 
 ```bash
