@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "As long as you are pure of heart, you speak the truth."
-> ~ Umar ibn Al-Khattāb (R.A)
+> "Be Faithful In Small Things Because It Is In Them That Your Strength Lies."
+> ~ Mother Teresa
 
 
 ```bash
