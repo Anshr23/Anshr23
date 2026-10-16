@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Be Faithful In Small Things Because It Is In Them That Your Strength Lies."
-> ~ Mother Teresa
+> "It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure."
+> ~ Bill Gates
 
 
 ```bash
