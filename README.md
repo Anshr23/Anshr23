@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "To Love is to reach God."
-> ~ Rumi
+> "Without Music, Life Would Be A Mistake."
+> ~ Friedrich Nietzsche
 
 
 ```bash
