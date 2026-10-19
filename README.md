@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Without Music, Life Would Be A Mistake."
-> ~ Friedrich Nietzsche
+> "Do not hate what you do not know, for the greater part of knowledge consists of what you do not know."
+> ~ Ali ibn Abi Talib (R.A)
 
 
 ```bash
