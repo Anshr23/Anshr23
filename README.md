@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Do not hate what you do not know, for the greater part of knowledge consists of what you do not know."
-> ~ Ali ibn Abi Talib (R.A)
+> "The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude."
+> ~ Oprah Winfrey
 
 
 ```bash
