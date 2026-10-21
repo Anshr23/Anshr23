@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude."
-> ~ Oprah Winfrey
+> "There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust."
+> ~ Rumi
 
 
 ```bash
