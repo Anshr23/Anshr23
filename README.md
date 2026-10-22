@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust."
-> ~ Rumi
+> "I Feel Much Freer Now That I Am Certain The Pope Is The Antichrist."
+> ~ Martin Luther
 
 
 ```bash
