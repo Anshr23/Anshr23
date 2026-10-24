@@ -5,7 +5,7 @@
 </p>
 </div>
 
-> "For 2,500 years, India has never invaded anybody."
+> "My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear."
 > ~ Abdul Kalam
 
 
