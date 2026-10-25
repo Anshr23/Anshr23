@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear."
-> ~ Abdul Kalam
+> "People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives."
+> ~ Theodore Roosevelt
 
 
 ```bash
