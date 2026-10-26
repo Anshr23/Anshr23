@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives."
-> ~ Theodore Roosevelt
+> "A Good Conscience Is A Continual Christmas."
+> ~ Benjamin Franklin
 
 
 ```bash
