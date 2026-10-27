@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "A Good Conscience Is A Continual Christmas."
-> ~ Benjamin Franklin
+> "Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You."
+> ~ Zig Ziglar
 
 
 ```bash
