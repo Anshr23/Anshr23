@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You."
-> ~ Zig Ziglar
+> "Once You Replace Negative Thoughts With Positive Ones, You'Ll Start Having Positive Results."
+> ~ Willie Nelson
 
 
 ```bash
