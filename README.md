@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Once You Replace Negative Thoughts With Positive Ones, You'Ll Start Having Positive Results."
-> ~ Willie Nelson
+> "Familiarity Breeds Contempt - And Children."
+> ~ Mark Twain
 
 
 ```bash
