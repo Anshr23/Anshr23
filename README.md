@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Familiarity Breeds Contempt - And Children."
-> ~ Mark Twain
+> "Never Do Anything Against Conscience Even If The State Demands It."
+> ~ Albert Einstein
 
 
 ```bash
