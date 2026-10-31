@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Never Do Anything Against Conscience Even If The State Demands It."
-> ~ Albert Einstein
+> "The Law Is Reason, Free From Passion."
+> ~ Aristotle
 
 
 ```bash
