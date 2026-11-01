@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The Law Is Reason, Free From Passion."
-> ~ Aristotle
+> "Silence gives answers."
+> ~ Rumi
 
 
 ```bash
