@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Silence gives answers."
-> ~ Rumi
+> "Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career."
+> ~ Abdul Kalam
 
 
 ```bash
