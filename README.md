@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career."
-> ~ Abdul Kalam
+> "He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."
+> ~ Benjamin Franklin
 
 
 ```bash
