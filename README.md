@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed."
-> ~ Benjamin Franklin
+> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
+> ~ Elizabeth Kenny
 
 
 ```bash
