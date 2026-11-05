@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
-> ~ Elizabeth Kenny
+> "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."
+> ~ Ernest Hemingway
 
 
 ```bash
