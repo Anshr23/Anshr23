@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "I Like To Listen. I Have Learned A Great Deal From Listening Carefully. Most People Never Listen."
-> ~ Ernest Hemingway
+> "There's nothing stressful about turning 50 except people reminding you about it."
+> ~ Muhammad Ali
 
 
 ```bash
