@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "There's nothing stressful about turning 50 except people reminding you about it."
-> ~ Muhammad Ali
+> "You Can'T Deny Laughter; When It Comes, It Plops Down In Your Favorite Chair And Stays As Long As It Wants."
+> ~ Stephen King
 
 
 ```bash
