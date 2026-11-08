@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "You Can'T Deny Laughter; When It Comes, It Plops Down In Your Favorite Chair And Stays As Long As It Wants."
-> ~ Stephen King
+> "Sometimes the people with the worst past, create the best future."
+> ~ Umar ibn Al-Khattāb (R.A)
 
 
 ```bash
