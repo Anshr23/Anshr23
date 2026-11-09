@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Sometimes the people with the worst past, create the best future."
-> ~ Umar ibn Al-Khattāb (R.A)
+> "Nations consist of people. And with their effort, a nation can accomplish all it could ever want."
+> ~ Abdul Kalam
 
 
 ```bash
