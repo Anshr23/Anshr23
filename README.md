@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Nations consist of people. And with their effort, a nation can accomplish all it could ever want."
-> ~ Abdul Kalam
+> "Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."
+> ~ Mahatma Gandhi
 
 
 ```bash
