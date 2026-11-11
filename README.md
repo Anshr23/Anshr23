@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will."
-> ~ Mahatma Gandhi
+> "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant."
+> ~ Ellen DeGeneres
 
 
 ```bash
