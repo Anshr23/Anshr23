@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "People Always Ask Me, 'Were You Funny As A Child?' Well, No, I Was An Accountant."
-> ~ Ellen DeGeneres
+> "If anybody seeks your advice, offer right and sincere advice."
+> ~ Abu Bakr (R.A)
 
 
 ```bash
