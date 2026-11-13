@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "If anybody seeks your advice, offer right and sincere advice."
-> ~ Abu Bakr (R.A)
+> "Don't get lost in your pain, know that one day your pain will become your cure."
+> ~ Rumi
 
 
 ```bash
