@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Don't get lost in your pain, know that one day your pain will become your cure."
-> ~ Rumi
+> "The outcome of fear is disappointment and shyness is frustration."
+> ~ Ali ibn Abi Talib (R.A)
 
 
 ```bash
