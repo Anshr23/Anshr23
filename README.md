@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The outcome of fear is disappointment and shyness is frustration."
-> ~ Ali ibn Abi Talib (R.A)
+> "I Wish I Could Give You A Taste Of The Burning Fire Of Love. There Is A Fire Blazing Inside Of Me. If I Cry About It, Or If I Don't, The Fire Is At Work, Night And Day."
+> ~ Rumi
 
 
 ```bash
