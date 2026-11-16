@@ -5,7 +5,7 @@
 </p>
 </div>
 
-> "I Wish I Could Give You A Taste Of The Burning Fire Of Love. There Is A Fire Blazing Inside Of Me. If I Cry About It, Or If I Don't, The Fire Is At Work, Night And Day."
+> "A heart filled with love is like a phoenix that no cage can imprison."
 > ~ Rumi
 
 
