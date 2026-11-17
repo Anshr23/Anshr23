@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "A heart filled with love is like a phoenix that no cage can imprison."
-> ~ Rumi
+> "The one who has no control over his desires has no control over his mind."
+> ~ Ali ibn Abi Talib (R.A)
 
 
 ```bash
