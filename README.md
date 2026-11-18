@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "The one who has no control over his desires has no control over his mind."
-> ~ Ali ibn Abi Talib (R.A)
+> "I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."
+> ~ Bill Cosby
 
 
 ```bash
