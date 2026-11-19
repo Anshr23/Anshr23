@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."
-> ~ Bill Cosby
+> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
+> ~ Muhammad Ali
 
 
 ```bash
