@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too."
-> ~ Muhammad Ali
+> "There Are Several Good Protections Against Temptation, But The Surest Is Cowardice."
+> ~ Mark Twain
 
 
 ```bash
