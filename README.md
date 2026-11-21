@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "There Are Several Good Protections Against Temptation, But The Surest Is Cowardice."
-> ~ Mark Twain
+> "Try something different. Surrender."
+> ~ Rumi
 
 
 ```bash
