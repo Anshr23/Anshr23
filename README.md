@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Try something different. Surrender."
-> ~ Rumi
+> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
+> ~ Elizabeth Kenny
 
 
 ```bash
