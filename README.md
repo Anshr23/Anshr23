@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "It'S Better To Be A Lion For A Day Than A Sheep All Your Life."
-> ~ Elizabeth Kenny
+> "I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder."
+> ~ Muhammad Ali
 
 
 ```bash
