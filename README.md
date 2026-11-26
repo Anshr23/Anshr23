@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "All your anxiety is because of your desire for harmony. Seek disharmony, then you will gain peace."
-> ~ Rumi
+> "Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong."
+> ~ Muhammad Ali
 
 
 ```bash
