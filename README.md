@@ -5,8 +5,8 @@
 </p>
 </div>
 
-> "Your Most Unhappy Customers Are Your Greatest Source Of Learning."
-> ~ Bill Gates
+> "Bear sorrows and calamities patiently, otherwise you will never be happy."
+> ~ Ali ibn Abi Talib (R.A)
 
 
 ```bash
